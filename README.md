@@ -1,7 +1,3 @@
-Here's your README for the **Delight-Nation** project:  
-
----
-
 # Delight-Nation 🍽️  
 
 A feature-rich food ordering website/app built using Vite + React. Currently, the frontend is completed, and backend development will begin soon.  
@@ -41,5 +37,3 @@ A feature-rich food ordering website/app built using Vite + React. Currently, th
 Developed by **Shreenath G L**  
 
 ---
-
-Let me know if you need any modifications! 🚀
